@@ -1,6 +1,1 @@
 #!/bin/bash
-
-#exports
-
-MYBASHDIR='$HOME/.dotfiles'
-DOWNLOADS='$HOME/Downloads'
